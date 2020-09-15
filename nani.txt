@@ -1,0 +1,120 @@
+t abandonne abandonnent hum X abandonner
+t accélère accèlerent X X accélérer
+t admire admirent hum X admirer
+t affronte affrontent hum hum affronter
+t aide aident hum hum aider
+t aime aiment hum nhum aimer
+t ajoute ajoutent hum X ajouter
+i va vont hum aller
+t améliore améliorent hum nhum améliorer
+t amortit amortissent hum nhum amortir
+t applaudit applaudissent hum hum applaudir
+X arrête arrêtent hum X arrêter
+t arrive arrivent hum nhum arriver
+t attaque attaquent hum X attaquer
+t attrape attrapent hum X attraper
+X avance avancent hum nhum avancer
+t a ont hum nhum avoir
+i appartient appartiennent nhum hum
+X danse dansent hum nhum danser
+t défend défendent hum X défendre
+t défie défient hum hum défier
+X dégage dégagent hum X dégager
+X démarre démarrent hum nhum démarrer
+X dévie dévient X X dévier
+t dope dopent hum hum doper
+i dort dorment hum dormir
+t doit doivent hum X devoir
+t dit disent hum nhum dire
+t dispute disputent hum hum disputer
+t domine dominent hum X dominer
+X donne donnent hum nhum donner
+i hésite hésitent hum hésiter
+t humilie humilient hum nhum humilier
+t jette jettent hum nhum jeter
+t jongle jonglent hum nhum jongler
+X joue jouent hum nhum jouer
+X lâche lâchent hum nhum lâcher
+t lance lancent hum nhum lancer
+X loupe loupent hum nhum louper
+i nage nagent hum nager
+i navigue naviguent hum naviguer
+i provient proviennent hum provenir
+t protège protègent hum nhum protéger
+i progresse progressent hum progresser
+X prend prennent hum X prendre
+t pratique pratiquent hum nhum pratiquer
+X plonge plongent hum plonger
+X perd perdent hum X perdre
+i part partent hum partir
+i participe participent hum participer
+i parle parlent hum parler
+t recrute recrutent hum hum recruter
+t rejoint rejoignent hum X rejoindre
+t remplace remplacent hum hum remplacer
+t remporte remportent hum nhum remporter
+t rencontre rencontrent hum hum rencontrer
+t respecte respectent hum hum respecter
+t utilise utilisent hum nhum utiliser
+t saisit saisissent hum nhum saisir
+t salue saluent hum hum saluer
+i saute sautent hum sauter
+t sélectionne sélectionnent hum X sélectionner
+X siffle sifflent hum hum siffler
+i skie skient hum skier
+t soigne soignent hum hum soigner
+X sort sortent hum nhum sortir
+X stoppe stoppent hum X stopper
+i sue suent hum suer
+X suit suivent hum hum suivre
+
+X bat battent hum hum battre
+t blesse blessent hum hum blesser
+t bloque bloquent X Y bloquer
+t boit boivent hum nhum boire
+t bouscule bousculent hum hum bousculer
+t calme calment X hum calmer
+t célèbre célèbrent hum nhum célébrer
+X change changent X Y changer
+t choisit choisissent hum X choisir
+i chute chutent hum chuter
+t concède concèdent hum X concéder
+t connaît connaîssent hum X connaître
+X continue continuent hum nhum continuer
+t contre contrent hum X contrer
+i court courent hum courir
+t fait font hum nhum faire
+X fatigue fatiguent Y hum fatiguer
+t félicite félicitent hum hum féliciter
+t fête fêtent hum nhum fêter
+t frappe frappent hum X frapper
+i freine freinent hum freiner
+t gagne gagnent hum nhum gagner
+i galope galopent hum galoper
+t garde gardent hum nhum garder
+i glisse glissent X glisser
+t maîtrise maîtrisent hum nhum maîtriser
+i marche marchent nhum marcher
+X marque marquent hum hum marquer
+X mène mènent hum nhum mener
+t met mettent hum nhum mettre
+t observe observent hum X observer
+t oppose opposent hum hum opposer
+X qualifie qualifient Y nhum qualifier
+t quitte quittent X nhum quitter
+X ralentit ralentissent Y Z ralentir
+t ramasse ramassent hum nhum ramasser
+t réceptionne réceptionnent hum nhum réceptionner
+X recommence recommencent Y Z recommmencer
+t récompense récompensent hum hum récompenser
+t vainc vainquent hum hum vaincre
+i vient viennent hum venir
+t vise visent hum nhum viser
+t voit voient hum X voir
+t veut veulent hum nhum vouloir
+t tire tirent hum nhum tirer
+t touche touchent X Y toucher
+i triche trichent hum tricher
+t trouve trouvent hum X trouver
+t supporte supportent X Y supporter
+t suspend suspendent hum X suspendre
